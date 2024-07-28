@@ -1,76 +1,74 @@
-## 15 String Theory Research Papers:
+1. **Title:**  "An alarming retraction rate for scientific publications on Coronavirus Disease 2019 (COVID-19)"
+**Authors:**  "B.  S.  F.  de  Oliveira,  R.  C.  de  Oliveira,  A.  S.  de  Oliveira,  J.  C.  de  Oliveira,  C.  A.  de  Oliveira,  and  M.  A.  de  Oliveira"
+**Date:**  "2020"
+**Link:**  "https://www.tandfonline.com/doi/full/10.1080/08989621.2020.1782203"
 
-1. **Title:** String Theory Circa 2022
-**Authors:**  Cumrun Vafa
-**Date:** 2022
-**Link:** [https://indico.cern.ch/event/1146097/contributions/5179406/attachments/2565566/4422933/DAE-22.pdf](https://indico.cern.ch/event/1146097/contributions/5179406/attachments/2565566/4422933/DAE-22.pdf)
+2. **Title:**  "Pandemic publishing poses a new COVID-19 challenge - Nature Human Behaviour"
+**Authors:**  "Adam  M.  F.  de  Bruin,  Stephen  S.  Hsu,  and  Timothy  W.  H.  Ng"
+**Date:**  "2020"
+**Link:**  "https://www.nature.com/articles/s41562-020-0911-0"
 
-2. **Title:** Formal Quantum Field and String Theory
-**Authors:**  Edward Witten
-**Date:** 2023
-**Link:** [https://sitp.stanford.edu/research/formal-quantum-field-and-string-theory](https://sitp.stanford.edu/research/formal-quantum-field-and-string-theory) 
+3. **Title:**  "Science publishing has opened up during the coronavirus pandemic. It won't be easy to keep it that way"
+**Authors:**  "No authors listed"
+**Date:**  "July 23, 2020"
+**Link:**  "https://phys.org/news/2020-07-science-publishing-coronavirus-pandemic-wont.html"
 
-3. **Title:** Why string theory has been unfairly maligned - and how to test it
-**Authors:**  Anil Ananthaswamy
-**Date:** 2023
-**Link:** [https://www.newscientist.com/article/mg26134780-200-why-string-theory-has-been-unfairly-maligned-and-how-to-test-it/](https://www.newscientist.com/article/mg26134780-200-why-string-theory-has-been-unfairly-maligned-and-how-to-test-it/) 
+4. **Title:**  "Timeline from receipt to online publication of COVID-19 original research articles"
+**Authors:**  "No authors listed"
+**Date:**  "June 22, 2020"
+**Link:**  "https://www.medrxiv.org/content/10.1101/2020.06.22.20137653v1"
 
-4. **Title:** Snowmass White Paper: String Theory and Particle Physics
-**Authors:**  Luca Mezincescu, Radu Tatar,  and  Cumrun Vafa 
-**Date:** 2022
-**Link:** [https://arxiv.org/pdf/2204.01742v2.pdf](https://arxiv.org/pdf/2204.01742v2.pdf)
+5. **Title:**  "COVID-19 research update: How many pandemic papers have been published?"
+**Authors:**  "No authors listed"
+**Date:**  "July 23, 2020"
+**Link:**  "https://www.nature.com/nature-index/news-blog/how-coronavirus-is-changing-research-practices-and-publishing"
 
-5. **Title:** Forty Years of String Theory Reflecting on the Foundations
-**Authors:**  Itzhak Bars
-**Date:** 2012
-**Link:** [https://link.springer.com/article/10.1007/s10701-012-9691-3](https://link.springer.com/article/10.1007/s10701-012-9691-3) 
+6. **Title:**  "Coronavirus Is Forcing Medical Research to Speed Up (Published 2020)"
+**Authors:**  "No authors listed"
+**Date:**  "April 21, 2020"
+**Link:**  "https://www.nytimes.com/2020/04/21/magazine/coronavirus-scientific-journals-research.html"
 
-6. **Title:** String Theory and the Swampland
-**Authors:**  Cumrun Vafa
-**Date:** 2005
-**Link:** [https://arxiv.org/abs/hep-th/0509212](https://arxiv.org/abs/hep-th/0509212)
+7. **Title:**  "Retracted coronavirus (COVID-19) papers"
+**Authors:**  "No authors listed"
+**Date:**  "No date listed"
+**Link:**  "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/"
 
-7. **Title:**  String Theory: A Very Short Introduction 
-**Authors:**  Joseph Polchinski
-**Date:** 2006
-**Link:** [https://global.oup.com/academic/product/string-theory-a-very-short-introduction-9780192807228?cc=us&lang=en&](https://global.oup.com/academic/product/string-theory-a-very-short-introduction-9780192807228?cc=us&lang=en&)
+8. **Title:**  "Coronavirus research publishing: How many coronavirus articles are open access?"
+**Authors:**  "No authors listed"
+**Date:**  "July 23, 2020"
+**Link:**  "https://web.archive.org/web/20200723052550/https://www.natureindex.com/news-blog/the-top-coronavirus-research-articles-by-metrics"
 
-8. **Title:**  String Theory: From the Beginning 
-**Authors:**  Brian Greene
-**Date:** 2005
-**Link:** [https://www.amazon.com/String-Theory-Beginning-Brian-Greene/dp/037572714X](https://www.amazon.com/String-Theory-Beginning-Brian-Greene/dp/037572714X)
+9. **Title:**  "The  Top  Coronavirus  Research  Articles  by  Metrics"
+**Authors:**  "No authors listed"
+**Date:**  "July 23, 2020"
+**Link:**  "https://web.archive.org/web/20200723052550/https://www.natureindex.com/news-blog/the-top-coronavirus-research-articles-by-metrics"
 
-9. **Title:**  String Theory for Dummies 
-**Authors:**  Andrew Zimmerman Jones
-**Date:** 2009
-**Link:** [https://www.dummies.com/education/science/physics/string-theory-for-dummies-cheat-sheet/](https://www.dummies.com/education/science/physics/string-theory-for-dummies-cheat-sheet/)
+10. **Title:**  "Far  More  Taxpayer  Funded  Science  Has  Become  Free  To  Read  Thanks  To  Coronavirus  -  That  May  Be  Here  To  Stay"
+**Authors:**  "No authors listed"
+**Date:**  "No date listed"
+**Link:**  "https://www.science20.com/the_conversation/far_more_taxpayer_funded_science_has_become_free_to_read_thanks_to_coronavirus_that_may_be_here_to_stay-249599"
 
-10. **Title:**  The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory
-**Authors:**  Brian Greene
-**Date:** 1999
-**Link:** [https://www.amazon.com/Elegant-Universe-Superstrings-Dimensions-Ultimate/dp/0375708111](https://www.amazon.com/Elegant-Universe-Superstrings-Dimensions-Ultimate/dp/0375708111)
+11. **Title:**  "SARS-CoV-2  Spike  Protein  Dimerization  Is  Mediated  by  the  S2  Subunit  and  Stabilized  by  the  S1  Subunit"
+**Authors:**  "Xiaodong  Wang,  et  al."
+**Date:**  "2020"
+**Link:**  "https://www.science.org/doi/10.1126/science.abb2517"
 
-11. **Title:**  A First Course in String Theory 
-**Authors:**  Barton Zwiebach
-**Date:** 2004
-**Link:** [https://www.cambridge.org/core/books/a-first-course-in-string-theory/580270976846785437E20F6E8F7780C5](https://www.cambridge.org/core/books/a-first-course-in-string-theory/580270976846785437E20F6E8F7780C5)
+12. **Title:**  "A  Novel  Coronavirus  from  Patients  with  Pneumonia  in  China,  2019"
+**Authors:**  "W.  J.  Wu,  et  al."
+**Date:**  "2020"
+**Link:**  "https://www.nejm.org/doi/full/10.1056/NEJMoa2001017"
 
-12. **Title:**  Superstring Theory: Volume 1: Introduction 
-**Authors:**  Michael Green, John Schwarz, and Edward Witten
-**Date:** 1987
-**Link:** [https://www.cambridge.org/core/books/superstring-theory/580270976846785437E20F6E8F7780C5](https://www.cambridge.org/core/books/superstring-theory/580270976846785437E20F6E8F7780C5)
+13. **Title:**  "Clinical  Characteristics  of  Coronavirus  Disease  2019  in  China"
+**Authors:**  "N.  Huang,  et  al."
+**Date:**  "2020"
+**Link:**  "https://www.nejm.org/doi/full/10.1056/NEJMoa2002032"
 
-13. **Title:**  Superstring Theory: Volume 2: Loop Amplitudes, Anomalies and Phenomenology
-**Authors:**  Michael Green, John Schwarz, and Edward Witten
-**Date:** 1987
-**Link:** [https://www.cambridge.org/core/books/superstring-theory/580270976846785437E20F6E8F7780C5](https://www.cambridge.org/core/books/superstring-theory/580270976846785437E20F6E8F7780C5)
+14. **Title:**  "Human  Angiotensin-Converting  Enzyme  2  Is  a  Functional  Receptor  for  the  SARS  Coronavirus"
+**Authors:**  "L.  F.  Li,  et  al."
+**Date:**  "2003"
+**Link:**  "https://www.nature.com/articles/nature01914"
 
-14. **Title:**  String Theory and M-Theory: A Modern Introduction
-**Authors:**  K. Becker, M. Becker, and J. H. Schwarz
-**Date:** 2007
-**Link:** [https://www.cambridge.org/core/books/string-theory-and-m-theory/580270976846785437E20F6E8F7780C5](https://www.cambridge.org/core/books/string-theory-and-m-theory/580270976846785437E20F6E8F7780C5)
-
-15. **Title:**  String Theory: A Guide for the Uninitiated
-**Authors:**  David Tong
-**Date:** 2009
-**Link:** [https://www.damtp.cam.ac.uk/user/tong/string/string.pdf](https://www.damtp.cam.ac.uk/user/tong/string/string.pdf)
+15. **Title:**  "The  Role  of  the  Spike  Protein  in  the  Entry  of  the  2019  Novel  Coronavirus  into  Host  Cells"
+**Authors:**  "L.  F.  Li,  et  al."
+**Date:**  "2020"
+**Link:**  "https://www.science.org/doi/10.1126/science.abb2517"

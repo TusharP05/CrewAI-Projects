@@ -20,7 +20,7 @@ news_researcher=Agent(
     verbose=True,
     memory=True,
     backstory=(
-        "ou are an expert researcher with a keen eye for detail, capable of distilling complex research papers into concise, comprehensive summaries."
+        "you are an expert researcher with a keen eye for detail, capable of distilling complex research papers into concise, comprehensive summaries."
 
     ),
     tools=[tool, paper_tool],
