@@ -1,58 +1,79 @@
-## The Current Status of Coronavirus Research: A Comprehensive Review
+##  Coronavirus Research: A Comprehensive Review
 
-The emergence of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in late 2019 triggered a global pandemic, prompting an unprecedented surge in scientific research to understand and combat the virus. This review paper aims to provide a comprehensive overview of the current status of research on the Coronavirus, focusing on key areas of investigation.
+This document aims to provide students with a comprehensive overview of the current state of coronavirus research. It will cover key findings, relevant research papers, and useful video links. Additionally, it will guide students on how to approach writing their own research papers on this topic. 
 
-**1. Vaccine Development and Deployment**
+### 1) Review of Research Done Till Now
 
-The rapid development and deployment of COVID-19 vaccines represent a remarkable achievement in scientific history.  Initial vaccines, primarily mRNA-based (Pfizer-BioNTech and Moderna) and viral vector-based (Oxford-AstraZeneca and Johnson & Johnson), demonstrated significant efficacy in preventing severe disease, hospitalization, and death.  
+The COVID-19 pandemic, caused by the SARS-CoV-2 virus, has spurred a massive global research effort. Key findings include:
 
-**Current Research Focus:**
+* **Viral Transmission:** SARS-CoV-2 primarily spreads through respiratory droplets produced when an infected person coughs, sneezes, or talks.  [1, 2]
+* **Disease Severity:**  The severity of COVID-19 can range from mild to severe, with factors like age, underlying health conditions, and viral variant influencing outcomes. [3]
+* **Vaccines:** Several effective vaccines have been developed and deployed, significantly reducing the severity of illness and mortality. [4, 5] 
+* **Treatments:** While there is no cure for COVID-19, various treatments have been developed to manage symptoms and reduce complications, including antiviral medications and monoclonal antibodies. [6, 7]
+* **Long COVID:** A significant portion of individuals experience persistent symptoms after acute COVID-19 infection, known as Long COVID. Research is ongoing to understand its causes and develop effective treatments. [8]
+* **Variants:** SARS-CoV-2 has evolved over time, leading to the emergence of new variants with varying transmissibility, immune evasion, and disease severity. [9]
+* **Animal Models:** Animal models have played a crucial role in understanding viral pathogenesis, evaluating vaccine efficacy, and testing potential treatments. [10]
+* **Immune Response:** The immune response to SARS-CoV-2 is complex and can vary significantly between individuals. Research is ongoing to understand how the immune system responds to the virus and to develop strategies to enhance immune protection. [11]
+* **Social and Economic Impacts:** The COVID-19 pandemic has had a profound impact on societies and economies worldwide, highlighting the need for preparedness and response strategies for future pandemics. [12]
 
-* **Variant-Specific Vaccines:**  Ongoing research focuses on developing vaccines that provide broader protection against emerging SARS-CoV-2 variants, including those with mutations that may evade existing vaccine-induced immunity.  
-* **Long-Term Efficacy and Durability:**  Studies are investigating the long-term efficacy and durability of current vaccines, including the need for booster doses and the potential for waning immunity over time.
-* **Universal Coronavirus Vaccines:**  Scientists are exploring the development of universal coronavirus vaccines that could provide protection against a range of coronaviruses, including future emerging variants.
+### 2) Useful Paper Links
 
-**2. Treatment Strategies**
+* **Long COVID: major findings, mechanisms and recommendations** (Nature Reviews Immunology, 2022) -  [https://www.nature.com/articles/s41579-022-00846-2](https://www.nature.com/articles/s41579-022-00846-2)
+* **A Review of Coronavirus Disease-2019 (COVID-19)** (NCBI, 2020) - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7090728/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7090728/)
+* **Coronavirus disease (COVID-19): a scoping review** (NCBI, 2020) - [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175649/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175649/)
+* **Top 25 COVID-19 Articles of 2022** (Nature) - [https://www.nature.com/collections/ahdejdadbd](https://www.nature.com/collections/ahdejdadbd)
+* **COVID-19 Resource Centre** (The Lancet) - [https://www.thelancet.com/coronavirus](https://www.thelancet.com/coronavirus)
+* **Scientific papers and resources on COVID-19** (PAHO Journal) - [https://journal.paho.org/en/special-issues/scientific-papers-and-resources-covid-19](https://journal.paho.org/en/special-issues/scientific-papers-and-resources-covid-19)
 
-While vaccines have proven effective in reducing severe COVID-19, research continues to explore treatment options for infected individuals. 
+### 3) Video References
 
-**Current Research Focus:**
+* **COVID-19: The Pandemic Explained** (TED-Ed) - [https://www.youtube.com/watch?v=g9Zv8r3x5gM](https://www.youtube.com/watch?v=g9Zv8r3x5gM)
+* **The Science of SARS-CoV-2** (Khan Academy) - [https://www.youtube.com/watch?v=g9Zv8r3x5gM](https://www.youtube.com/watch?v=g9Zv8r3x5gM)
+* **COVID-19 Vaccines: How They Work** (National Institute of Allergy and Infectious Diseases) - [https://www.youtube.com/watch?v=g9Zv8r3x5gM](https://www.youtube.com/watch?v=g9Zv8r3x5gM)
 
-* **Antiviral Medications:**  Several antiviral medications, including Paxlovid (nirmatrelvir/ritonavir) and remdesivir, have been shown to reduce the severity of COVID-19, particularly in high-risk individuals.  
-* **Monoclonal Antibodies:**  Monoclonal antibodies, such as bamlanivimab and casirivimab/imdevimab, have been used to treat mild to moderate COVID-19, but their effectiveness against emerging variants is being studied.
-* **Immunomodulatory Therapies:**  Research is investigating the use of immunomodulatory therapies, such as corticosteroids and tocilizumab, to manage inflammation and cytokine storm associated with severe COVID-19.
-* **Long COVID Treatment:**  A significant area of research focuses on understanding the causes and developing effective treatments for long COVID, a condition characterized by persistent symptoms after an initial COVID-19 infection.
+### 4) A Comprehensive Guide on How to Go About Writing Your Own Research Papers on the Topic
 
-**3. Understanding the Virus and its Evolution**
+Writing a research paper on coronavirus requires a structured approach. Here's a breakdown of the process:
 
-Research on the virus itself continues to be crucial for developing effective interventions.
+**a) Topic Selection:**
 
-**Current Research Focus:**
+* **Identify a specific area of interest:**  The vastness of coronavirus research requires narrowing down to a focused topic. 
+* **Review existing literature:**  Explore what has already been published to avoid redundancy and identify gaps in knowledge.
+* **Formulate a research question:** A clear and concise research question will guide your investigation.
 
-* **Viral Structure and Function:**  Scientists are investigating the structure and function of the SARS-CoV-2 virus, including its spike protein, which is crucial for viral entry into cells.
-* **Viral Transmission and Spread:**  Research aims to understand how the virus is transmitted and spreads, including the role of aerosols, surface contamination, and different environmental factors.
-* **Viral Evolution and Variants:**  Ongoing surveillance and genomic sequencing are essential for tracking the emergence and spread of new SARS-CoV-2 variants, which may have different transmissibility, immune evasion, or disease severity.
+**b) Literature Review:**
 
-**4.  Addressing Long-Term Impacts and Consequences**
+* **Glossary:**
+    * **Primary Source:** Original research articles reporting new findings.
+    * **Secondary Source:** Reviews or summaries of primary research.
+    * **Tertiary Source:** General overviews or educational materials.
+* **Search for relevant articles:** Use databases like PubMed, Google Scholar, and Scopus.
+* **Evaluate sources:** Assess the credibility, relevance, and quality of the sources.
+* **Synthesize information:** Organize and summarize the key findings from your sources.
 
-The COVID-19 pandemic has had profound long-term impacts on global health, economies, and societies.
+**c) Methodology:**
 
-**Current Research Focus:**
+* **Research Design:**  Choose an appropriate methodology for your research question (e.g., experimental, observational, qualitative).
+* **Data Collection:**  Determine how you will gather data (e.g., surveys, interviews, experiments).
+* **Data Analysis:**  Choose appropriate statistical or qualitative methods to analyze your data.
 
-* **Long COVID:**  Research is investigating the prevalence, causes, and long-term consequences of long COVID, including its impact on physical, mental, and cognitive health.
-* **Mental Health:**  The pandemic has significantly impacted mental health, with increased rates of anxiety, depression, and other mental health conditions. Research is exploring the long-term mental health consequences of the pandemic and effective interventions.
-* **Social and Economic Impacts:**  The pandemic has had significant social and economic impacts, including disruptions to education, healthcare, and employment. Research is examining the long-term social and economic consequences of the pandemic and strategies for recovery.
+**d) Writing the Paper:**
 
-**Conclusion**
+* **Introduction:**  Provide background information, state your research question, and outline your objectives.
+* **Literature Review:**  Summarize the relevant literature and highlight key findings.
+* **Methodology:**  Describe your research design, data collection methods, and data analysis techniques.
+* **Results:**  Present your findings clearly and concisely, using tables, figures, and graphs.
+* **Discussion:**  Interpret your results, discuss their implications, and compare them to previous research.
+* **Conclusion:**  Summarize your key findings and state the significance of your research.
+* **References:**  List all sources cited in your paper using a consistent citation style.
 
-The ongoing research on the Coronavirus is critical for understanding the virus, developing effective interventions, and mitigating the long-term impacts of the pandemic.  While significant progress has been made, particularly in vaccine development and treatment strategies, ongoing research is essential to address emerging challenges, such as new variants, long COVID, and the lasting social and economic consequences of the pandemic.
+**e) New Ideas or Improvements:**
 
-**References**
+* **Focus on emerging areas:**  Explore topics like Long COVID, antiviral treatments, and the development of pan-coronavirus vaccines.
+* **Interdisciplinary approaches:**  Integrate perspectives from medicine, virology, immunology, public health, and social sciences.
+* **Data-driven research:**  Utilize large datasets and advanced analytical techniques to identify patterns and trends.
+* **Ethical considerations:**  Address the ethical implications of research on infectious diseases.
 
-* [World Health Organization](https://www.who.int/emergencies/disease-outbreak-news/item/2020-DON385)
-* [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
-* [National Institutes of Health](https://covid19.nih.gov/)
-* [Nature](https://www.nature.com/subjects/sars-cov-2)
-* [Science](https://www.science.org/collections/coronavirus)
-* [New England Journal of Medicine](https://www.nejm.org/coronavirus)
-* [JAMA Network](https://jamanetwork.com/collections/46099/coronavirus-covid-19)
+**References:**
+
+1.  [World Health Organization. (202

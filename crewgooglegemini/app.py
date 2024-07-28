@@ -59,6 +59,35 @@ def get_sample_research():
     """
     return sample_data, 200, {'Content-Type': 'text/markdown'}
 
+@app.route('/papers', methods=['POST'])
+def run_papers():
+    data = request.json
+    topic = data.get('topic')
+
+    if not topic:
+        return jsonify({'error': 'Topic is required'}), 400
+
+    try:
+        # Run the tasks with the given topic and gather results
+        result = asyncio.run(gather_results_async(topic))
+
+        # Assuming gather_results generates 'final.md'
+        markdown_file = 'papers.md'
+
+        if not os.path.exists(markdown_file):
+            return jsonify({'error': 'Markdown file not found'}), 404
+
+        # Read the Markdown content from the file
+        with open(markdown_file, 'r') as f:
+            markdown_content = f.read()
+
+        # Return the Markdown content as text
+        return markdown_content, 200, {'Content-Type': 'text/markdown'}
+
+    except Exception as e:
+        logging.error(f"Error in /papers: {str(e)}")
+        return jsonify({'error': str(e)}), 500
+
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
     app.run(host='0.0.0.0', port=port)

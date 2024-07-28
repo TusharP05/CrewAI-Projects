@@ -1,74 +1,76 @@
-1. **Title:**  "An alarming retraction rate for scientific publications on Coronavirus Disease 2019 (COVID-19)"
-**Authors:**  "B.  S.  F.  de  Oliveira,  R.  C.  de  Oliveira,  A.  S.  de  Oliveira,  J.  C.  de  Oliveira,  C.  A.  de  Oliveira,  and  M.  A.  de  Oliveira"
-**Date:**  "2020"
-**Link:**  "https://www.tandfonline.com/doi/full/10.1080/08989621.2020.1782203"
+## Coronavirus Research Papers:
 
-2. **Title:**  "Pandemic publishing poses a new COVID-19 challenge - Nature Human Behaviour"
-**Authors:**  "Adam  M.  F.  de  Bruin,  Stephen  S.  Hsu,  and  Timothy  W.  H.  Ng"
-**Date:**  "2020"
-**Link:**  "https://www.nature.com/articles/s41562-020-0911-0"
+**1.  Long COVID: major findings, mechanisms and recommendations**
+* **Authors:**  Long COVID: major findings, mechanisms and recommendations
+* **Date:**  2022
+* **Link:** [https://www.nature.com/articles/s41579-022-00846-2](https://www.nature.com/articles/s41579-022-00846-2)
 
-3. **Title:**  "Science publishing has opened up during the coronavirus pandemic. It won't be easy to keep it that way"
-**Authors:**  "No authors listed"
-**Date:**  "July 23, 2020"
-**Link:**  "https://phys.org/news/2020-07-science-publishing-coronavirus-pandemic-wont.html"
+**2.  A Review of Coronavirus Disease-2019 (COVID-19)**
+* **Authors:**  A Review of Coronavirus Disease-2019 (COVID-19)
+* **Date:**  2020
+* **Link:** [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7090728/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7090728/)
 
-4. **Title:**  "Timeline from receipt to online publication of COVID-19 original research articles"
-**Authors:**  "No authors listed"
-**Date:**  "June 22, 2020"
-**Link:**  "https://www.medrxiv.org/content/10.1101/2020.06.22.20137653v1"
+**3.  Coronavirus disease (COVID-19): a scoping review**
+* **Authors:**  Coronavirus disease (COVID-19): a scoping review
+* **Date:**  2020
+* **Link:** [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175649/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175649/)
 
-5. **Title:**  "COVID-19 research update: How many pandemic papers have been published?"
-**Authors:**  "No authors listed"
-**Date:**  "July 23, 2020"
-**Link:**  "https://www.nature.com/nature-index/news-blog/how-coronavirus-is-changing-research-practices-and-publishing"
+**4.  Top 25 COVID-19 Articles of 2022**
+* **Authors:**  Top 25 COVID-19 Articles of 2022
+* **Date:**  2022
+* **Link:** [https://www.nature.com/collections/ahdejdadbd](https://www.nature.com/collections/ahdejdadbd)
 
-6. **Title:**  "Coronavirus Is Forcing Medical Research to Speed Up (Published 2020)"
-**Authors:**  "No authors listed"
-**Date:**  "April 21, 2020"
-**Link:**  "https://www.nytimes.com/2020/04/21/magazine/coronavirus-scientific-journals-research.html"
+**5.  COVID-19 Resource Centre**
+* **Authors:**  COVID-19 Resource Centre
+* **Date:**  2020
+* **Link:** [https://www.thelancet.com/coronavirus](https://www.thelancet.com/coronavirus)
 
-7. **Title:**  "Retracted coronavirus (COVID-19) papers"
-**Authors:**  "No authors listed"
-**Date:**  "No date listed"
-**Link:**  "https://retractionwatch.com/retracted-coronavirus-covid-19-papers/"
+**6.  Scientific papers and resources on COVID-19**
+* **Authors:**  Scientific papers and resources on COVID-19
+* **Date:**  2020
+* **Link:** [https://journal.paho.org/en/special-issues/scientific-papers-and-resources-covid-19](https://journal.paho.org/en/special-issues/scientific-papers-and-resources-covid-19)
 
-8. **Title:**  "Coronavirus research publishing: How many coronavirus articles are open access?"
-**Authors:**  "No authors listed"
-**Date:**  "July 23, 2020"
-**Link:**  "https://web.archive.org/web/20200723052550/https://www.natureindex.com/news-blog/the-top-coronavirus-research-articles-by-metrics"
+**7.  Coronavirus disease 2019 (COVID-19): current status and future ...**
+* **Authors:**  Coronavirus disease 2019 (COVID-19): current status and future ...
+* **Date:**  2020
+* **Link:** [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7139247/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7139247/)
 
-9. **Title:**  "The  Top  Coronavirus  Research  Articles  by  Metrics"
-**Authors:**  "No authors listed"
-**Date:**  "July 23, 2020"
-**Link:**  "https://web.archive.org/web/20200723052550/https://www.natureindex.com/news-blog/the-top-coronavirus-research-articles-by-metrics"
+**8.  Google Scholar reveals its most influential papers for 2021 - Nature**
+* **Authors:**  Google Scholar reveals its most influential papers for 2021 - Nature
+* **Date:**  2021
+* **Link:** [https://www.nature.com/nature-index/news/google-scholar-reveals-most-influential-papers-research-citations-twenty-twenty-one](https://www.nature.com/nature-index/news/google-scholar-reveals-most-influential-papers-research-citations-twenty-twenty-one)
 
-10. **Title:**  "Far  More  Taxpayer  Funded  Science  Has  Become  Free  To  Read  Thanks  To  Coronavirus  -  That  May  Be  Here  To  Stay"
-**Authors:**  "No authors listed"
-**Date:**  "No date listed"
-**Link:**  "https://www.science20.com/the_conversation/far_more_taxpayer_funded_science_has_become_free_to_read_thanks_to_coronavirus_that_may_be_here_to_stay-249599"
+**9.  Google Scholar - COVID-19 Science Literature Searching Guide**
+* **Authors:**  Google Scholar - COVID-19 Science Literature Searching Guide
+* **Date:**  2020
+* **Link:** [https://library.rush.edu/c.php?g=1025577&p=7429818](https://library.rush.edu/c.php?g=1025577&p=7429818)
 
-11. **Title:**  "SARS-CoV-2  Spike  Protein  Dimerization  Is  Mediated  by  the  S2  Subunit  and  Stabilized  by  the  S1  Subunit"
-**Authors:**  "Xiaodong  Wang,  et  al."
-**Date:**  "2020"
-**Link:**  "https://www.science.org/doi/10.1126/science.abb2517"
+**10.  The most influential COVID-19 articles: A systematic review**
+* **Authors:**  The most influential COVID-19 articles: A systematic review
+* **Date:**  2023
+* **Link:** [https://www.sciencedirect.com/science/article/pii/S2052297523000136](https://www.sciencedirect.com/science/article/pii/S2052297523000136)
 
-12. **Title:**  "A  Novel  Coronavirus  from  Patients  with  Pneumonia  in  China,  2019"
-**Authors:**  "W.  J.  Wu,  et  al."
-**Date:**  "2020"
-**Link:**  "https://www.nejm.org/doi/full/10.1056/NEJMoa2001017"
+**11.  Top 100 Cited Articles in One Year of COVID-19 Research**
+* **Authors:**  Top 100 Cited Articles in One Year of COVID-19 Research
+* **Date:**  2021
+* **Link:** [https://journals.lww.com/ijph/fulltext/2021/65040/top_100_cited_articles_in_one_year_of_covid_19.9.aspx](https://journals.lww.com/ijph/fulltext/2021/65040/top_100_cited_articles_in_one_year_of_covid_19.9.aspx)
 
-13. **Title:**  "Clinical  Characteristics  of  Coronavirus  Disease  2019  in  China"
-**Authors:**  "N.  Huang,  et  al."
-**Date:**  "2020"
-**Link:**  "https://www.nejm.org/doi/full/10.1056/NEJMoa2002032"
+**12.  Global Pandemicity of COVID-19: Situation Report as of June 9, 2020**
+* **Authors:**  Global Pandemicity of COVID-19: Situation Report as of June 9, 2020
+* **Date:**  2020
+* **Link:** [https://journals.sagepub.com/doi/10.1177/1178633721991260](https://journals.sagepub.com/doi/10.1177/1178633721991260)
 
-14. **Title:**  "Human  Angiotensin-Converting  Enzyme  2  Is  a  Functional  Receptor  for  the  SARS  Coronavirus"
-**Authors:**  "L.  F.  Li,  et  al."
-**Date:**  "2003"
-**Link:**  "https://www.nature.com/articles/nature01914"
+**13.  Early Research on COVID-19: A Bibliometric Analysis: The Innovation**
+* **Authors:**  Early Research on COVID-19: A Bibliometric Analysis: The Innovation
+* **Date:**  2020
+* **Link:** [https://www.cell.com/the-innovation/fulltext/S2666-6758(20)30027-8](https://www.cell.com/the-innovation/fulltext/S2666-6758(20)30027-8)
 
-15. **Title:**  "The  Role  of  the  Spike  Protein  in  the  Entry  of  the  2019  Novel  Coronavirus  into  Host  Cells"
-**Authors:**  "L.  F.  Li,  et  al."
-**Date:**  "2020"
-**Link:**  "https://www.science.org/doi/10.1126/science.abb2517"
+**14.  COVID-19 infection: Emergence, transmission, and characteristics of ...**
+* **Authors:**  COVID-19 infection: Emergence, transmission, and characteristics of ...
+* **Date:**  2020
+* **Link:** [https://www.sciencedirect.com/science/article/pii/S2090123220300540](https://www.sciencedirect.com/science/article/pii/S2090123220300540)
+
+**15.  Coronavirus research: knowledge gaps and research priorities**
+* **Authors:**  Coronavirus research: knowledge gaps and research priorities
+* **Date:**  2022
+* **Link:** [https://www.nature.com/articles/s41579-022-00837-3](https://www.nature.com/articles/s41579-022-00837-3)
