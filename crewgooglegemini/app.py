@@ -60,5 +60,5 @@ def get_sample_research():
     return sample_data, 200, {'Content-Type': 'text/markdown'}
 
 if __name__ == '__main__':
-    logging.basicConfig(level=logging.INFO)
-    app.run(debug=True)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
