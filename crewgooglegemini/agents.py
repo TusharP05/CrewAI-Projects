@@ -10,7 +10,7 @@ import os
 llm=ChatGoogleGenerativeAI(model="gemini-1.5-flash",
                            verbose=True,
                            temperature=0.5,
-                           google_api_key=("AIzaSyDCit9zodmp-P2UW8pB9jiIYgdQZoQfAqg"))
+                           google_api_key=("AIzaSyAiXQTtkrnvA-v9cJaMASwXaz4etgkKon0"))
 
 # Creating a senior researcher agent with memory and verbose mode
 
