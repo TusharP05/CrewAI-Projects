@@ -28,7 +28,7 @@ write_task = Task(
 
 link_finder= Task(
     description=(
-        "search internet for the papers and journals related to {topic} and provide a list of 10 of them, along with their heading links(mostly of google scholar and springer and ieee and other reputed ones like nature) and authors and date, please do not provide broken links."),
+        "search internet for the papers and journals related to {topic} and provide a list of 10 of them, along with their heading links(mostly of google scholar and springer and ieee and other reputed ones like nature) and authors and date, please do not provide broken links check the links if they have some data or not."),
     
      expected_output=' a file with 10 research papers, with author names and date and links',
     tools=[tool,paper_tool],

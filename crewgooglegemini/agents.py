@@ -4,13 +4,12 @@ from dotenv import load_dotenv
 load_dotenv()
 from langchain_google_genai import ChatGoogleGenerativeAI
 import os
+from langchain_groq import ChatGroq
 
 
 ## call the gemini models
-llm=ChatGoogleGenerativeAI(model="gemini-1.5-flash",
-                           verbose=True,
-                           temperature=0.5,
-                           google_api_key=("AIzaSyAiXQTtkrnvA-v9cJaMASwXaz4etgkKon0"))
+llm=ChatGroq(api_key="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",
+             model="llama-3.1-70b-versatile")
 
 # Creating a senior researcher agent with memory and verbose mode
 
@@ -25,7 +24,8 @@ news_researcher=Agent(
     ),
     tools=[tool, paper_tool],
     llm=llm,
-    allow_delegation=True
+    allow_delegation=True,
+    max_iter=6
 
 )
 
@@ -43,7 +43,8 @@ news_writer = Agent(
   ),
   tools=[tool, paper_tool],
   llm=llm,
-  allow_delegation=False
+  allow_delegation=False,
+  max_iter=6
 )
 
 linker= Agent(
@@ -58,7 +59,8 @@ linker= Agent(
   ),
   tools=[tool, paper_tool],
   llm=llm,
-  allow_delegation=False
+  allow_delegation=False,
+  max_iter=4
   
 )
 
