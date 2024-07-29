@@ -10,6 +10,7 @@ research_task = Task(
     expected_output='A detailed summary of key points, methodologies, and conclusions in a 3-page document.',
     tools=[tool, paper_tool],
     agent=news_researcher,
+    allow_delegation= True
 )
 
 # Writing task with language model configuration
@@ -29,7 +30,7 @@ link_finder= Task(
     description=(
         "search internet for the papers and journals related to {topic} and provide a list of 10 of them, along with their heading links(mostly of google scholar and springer and ieee and other reputed ones like nature) and authors and date, please do not provide broken links."),
     
-     expected_output=' a file with 15 research papers, with author names and date and links',
+     expected_output=' a file with 10 research papers, with author names and date and links',
     tools=[tool,paper_tool],
     agent=linker,
     async_execution=False,
