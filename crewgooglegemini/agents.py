@@ -8,8 +8,12 @@ from langchain_groq import ChatGroq
 
 
 ## call the gemini models
-llm=ChatGroq(api_key="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",
-             model="llama-3.1-70b-versatile")
+llm=ChatGroq(api_key=(os.getenv('GROQ_API_KEY')),
+             model="llama3-8b-8192")
+llm2=ChatGoogleGenerativeAI(model="gemini-1.5-flash",
+                           verbose=True,
+                           temperature=0.5,
+                           google_api_key=(os.getenv('GOOGLE_API_KEY')))
 
 # Creating a senior researcher agent with memory and verbose mode
 
@@ -48,19 +52,19 @@ news_writer = Agent(
 )
 
 linker= Agent(
-  role='researcher',
+  role='finder',
   goal='find research papers and journals',
   verbose=True,
   memory=True,
    backstory=(
     "With a flair for reaseraching around the world, you find"
-    "out the most important highlights and details from papers and journals, bringing new"
+    "out the papers and journals from the internet, bringing new"
     "discoveries to light in an accessible manner."
   ),
   tools=[tool, paper_tool],
-  llm=llm,
+  llm=llm2,
   allow_delegation=False,
-  max_iter=4
+  max_iter=6
   
 )
 

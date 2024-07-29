@@ -78,7 +78,7 @@ def run_papers():
             return jsonify({'error': 'Markdown file not found'}), 404
 
         # Read the Markdown content from the file
-        with open(markdown_file, 'r') as f:
+        with open(markdown_file, 'r', encoding='utf-8', errors='ignore') as f:
             markdown_content = f.read()
 
         # Return the Markdown content as text

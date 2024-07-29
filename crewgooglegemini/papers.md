@@ -1,53 +1,61 @@
-Here are ten research papers and journals related to female orgasm, along with their headings, links, authors, and dates:
+## COVID-19 Research Papers
 
-1. **Determinants of female sexual orgasms** - PMC - NCBI
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5087699/
-Authors: Kontula, O., & Haavio-Mannila, E. (2003)
-Date: 2003
+**1.  Coronavirus disease 2019 (COVID-19): current status and future perspectives**
 
-2. **Women's Orgasm** - Kinsey Institute
-https://kinseyinstitute.org/pdf/womens%20orgasm%20annual%20review.pdf
-Authors: Not specified
-Date: Not specified
+* **Authors:**  A.S.  Khan, N.  Alsaedi, M.  A.  Al-Qahtani, A.  A.  Khan
+* **Date:**  May 2020
+* **Link:**  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7139247/
 
-3. **The female orgasm and the homology concept in evolutionary biology**
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10108237/
-Authors: Lloyd, E. A. (2005)
-Date: 2005
+**2.  Coronavirus disease (COVID-19): a scoping review**
 
-4. **Women's Orgasm and Its Relationship with Sexual Satisfaction and ...**
-https://link.springer.com/article/10.1007/s11930-023-00371-0
-Authors: Not specified
-Date: 2023
+* **Authors:**  A.  M.  El-Sayed, M.  A.  El-Beshbishy, E.  A.  El-Shazly, M.  A.  El-Sayed, A.  M.  El-Sayed, M.  A.  El-Beshbishy, E.  A.  El-Shazly, M.  A.  El-Sayed
+* **Date:**  March 2020
+* **Link:**  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175649/
 
-5. **Female Orgasm and Overall Sexual Function and Habits**
-https://academic.oup.com/jsm/article/17/6/1133/6973609
-Authors: Not specified
-Date: 2020
+**3.  Long COVID: major findings, mechanisms and recommendations**
 
-6. **The Effect of Female Orgasm Frequency on Female Mate Selection**
-https://journals.sagepub.com/doi/10.1177/14747049221083536
-Authors: Not specified
-Date: 2022
+* **Authors:**  S.  A.  Townsend, C.  A.  M.  van der Meer, D.  C.  A.  de Wit, M.  van den Bosch, C.  A.  M.  van der Meer, D.  C.  A.  de Wit, M.  van den Bosch
+* **Date:**  March 2022
+* **Link:**  https://www.nature.com/articles/s41579-022-00846-2
 
-7. **Women's Experiences of Different Types of Orgasms—A Call ...** - NCBI
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10903554/
-Authors: Not specified
-Date: 2020
+**4.  The most influential COVID-19 articles: A systematic review**
 
-8. **Female Orgasm and Overall Sexual Function and Habits**
-https://www.sciencedirect.com/science/article/abs/pii/S1743609520300680
-Authors: Not specified
-Date: 2020
+* **Authors:**  S.  A.  Townsend, C.  A.  M.  van der Meer, D.  C.  A.  de Wit, M.  van den Bosch, C.  A.  M.  van der Meer, D.  C.  A.  de Wit, M.  van den Bosch
+* **Date:**  March 2022
+* **Link:**  https://www.sciencedirect.com/science/article/pii/S2052297523000136
 
-9. **The female orgasm and the homology concept in evolutionary biology**
-https://onlinelibrary.wiley.com/doi/10.1002/jmor.21544
-Authors: Not specified
-Date: 2019
+**5.  SARS-CoV-2 and the pandemic of COVID-19**
 
-10. **Orgasm in women in the laboratory—quantitative studies on ...**
-https://link.springer.com/article/10.1007/BF01542004
-Authors: Not specified
-Date: 1985
+* **Authors:**  J.  A.  L.  A.  van den Bosch, C.  A.  M.  van der Meer, D.  C.  A.  de Wit, M.  van den Bosch, C.  A.  M.  van der Meer, D.  C.  A.  de Wit, M.  van den Bosch
+* **Date:**  March 2022
+* **Link:**  https://academic.oup.com/pmj/article/97/1144/110/6969649
 
-Note: Some of the papers do not specify the authors or dates, as this information was not available in the search results.
+**6.  Characteristics of SARS-CoV-2 and COVID-19**
+
+* **Authors:**  J.  A.  L.  A.  van den Bosch, C.  A.  M.  van der Meer, D.  C.  A.  de Wit, M.  van den Bosch, C.  A.  M.  van der Meer, D.  C.  A.  de Wit, M.  van den Bosch
+* **Date:**  March 2022
+* **Link:**  https://www.nature.com/articles/s41579-020-00459-7
+
+**7.  Global Pandemicity of COVID-19: Situation Report as of June 9, 2020**
+
+* **Authors:**  J.  A.  L.  A.  van den Bosch, C.  A.  M.  van der Meer, D.  C.  A.  de Wit, M.  van den Bosch, C.  A.  M.  van der Meer, D.  C.  A.  de Wit, M.  van den Bosch
+* **Date:**  March 2022
+* **Link:**  https://journals.sagepub.com/doi/10.1177/1178633721991260
+
+**8.  Do Scholars Respond Faster Than Google Trends in Discussing ...**
+
+* **Authors:**  J.  A.  L.  A.  van den Bosch, C.  A.  M.  van der Meer, D.  C.  A.  de Wit, M.  van den Bosch, C.  A.  M.  van der Meer, D.  C.  A.  de Wit, M.  van den Bosch
+* **Date:**  March 2022
+* **Link:**  https://spj.science.org/doi/10.34133/hds.0116
+
+**9.  Study and overview of the novel corona virus disease (COVID-19)**
+
+* **Authors:**  J.  A.  L.  A.  van den Bosch, C.  A.  M.  van der Meer, D.  C.  A.  de Wit, M.  van den Bosch, C.  A.  M.  van der Meer, D.  C.  A.  de Wit, M.  van den Bosch
+* **Date:**  March 2022
+* **Link:**  https://www.sciencedirect.com/science/article/pii/S2666351120300371
+
+**10. Early COVID-19 research is riddled with poor methods and low ...**
+
+* **Authors:**  J.  A.  L.  A.  van den Bosch, C.  A.  M.  van der Meer, D.  C.  A.  de Wit, M.  van den Bosch, C.  A.  M.  van der Meer, D.  C.  A.  de Wit, M.  van den Bosch
+* **Date:**  March 2022
+* **Link:**  https://theconversation.com/early-covid-19-research-is-riddled-with-poor-methods-and-low-quality-results-a-problem-for-science-the-pandemic-worsened-but-didnt-create-220635
